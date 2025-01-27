@@ -1,6 +1,8 @@
 // UserList Component to display the list of users
 import {Component} from 'react'
 
+import './index.css'
+
 class UserList extends Component {
   render() {
     const {users, onEditUser, onDeleteUser} = this.props
