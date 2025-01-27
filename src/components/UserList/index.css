@@ -1,0 +1,46 @@
+.button {
+  border-radius: 12px;
+  border-width: 0px;
+  height: 34px;
+  width: 100px;
+  color: white;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.orange {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.first-name {
+  padding-right: 50px;
+  font-size: 30px;
+}
+
+.last-name {
+  padding-right: 50px;
+  font-size: 30px;
+}
+
+.email-name {
+  padding-right: 50px;
+  font-size: 30px;
+}
+
+.department {
+  padding-right: 50px;
+  font-size: 30px;
+}
+
+.actions {
+  padding-right: 50px;
+  font-size: 30px;
+}
+
+.name {
+  font-size: 20px;
+}
