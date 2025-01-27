@@ -1,6 +1,8 @@
 // UserForm Component for adding and editing users
 import {Component} from 'react'
 
+import './index.css'
+
 class UserForm extends Component {
   handleChange = e => {
     const {name, value} = e.target
