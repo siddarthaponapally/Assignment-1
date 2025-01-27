@@ -1,0 +1,36 @@
+.form-container {
+  margin-bottom: 20px;
+}
+
+.save-btn {
+  background-color: blue;
+  height: 35px;
+  width: 120px;
+  border-radius: 14px;
+  border-width: 0px;
+  color: white;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.firstname {
+  height: 25px;
+  font-size: 17px;
+}
+
+.lastname {
+  height: 25px;
+  font-size: 17px;
+}
+
+.email {
+  height: 25px;
+  font-size: 17px;
+}
+
+.department {
+  height: 25px;
+  font-size: 5px;
+  margin-top: 12px;
+  width: 190px;
+}
