@@ -2,6 +2,8 @@ import ErrorBoundary from '../ErrorBoundary'
 import UserForm from '../UserForm'
 import UserList from '../UserList'
 import {Component} from 'react'
+import './index.css'
+
 // Main App Component
 class Users extends Component {
   state = {
